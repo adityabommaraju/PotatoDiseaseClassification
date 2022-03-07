@@ -1,2 +1,2 @@
 # PotatoDiseaseClassification
-Disease classification in potato using Convolution Neural Networks
+Potato Disease classification using Convolution Neural Networks
